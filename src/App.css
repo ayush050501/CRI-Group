@@ -1,0 +1,61 @@
+.abcd{
+  background: linear-gradient(to bottom, rgba(219, 215, 139, 0) 0%, rgba(179, 187, 123, 0.8) 100%);
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.trophy{
+  width: 40%;
+  height: 20px;
+}
+.award{
+  font-size: small;
+  width: 60%;
+  margin-left: auto;
+  height: 550px;
+  margin-right:3% ;
+}
+.install,.value,.funds{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+}
+.machine{
+  margin-top: 3%;
+}
+.red-line {
+  height: 2px; 
+  background-color: red; 
+  width: 90%;
+  display: flex;
+  margin-left: 5%;
+}
+.products{
+  display: flex;
+  text-align: center;
+  /* justify-content: center;
+  align-items: center; */
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.seprate{
+  color: red;
+}
+.navbar{
+  height: 100px; 
+  background-color: red; 
+  display: flex;
+}
+.number,.fb,.site{
+  margin-left: 3%;
+  margin-right: 3%;
+  padding: 0;
+  mix-blend-mode: multiply;
+}
+/* .phone,.fbsite,.sitesite{
+  color: rgb(14, 1, 1);
+  padding: 0;
+} */
